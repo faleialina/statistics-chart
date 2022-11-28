@@ -40,7 +40,7 @@ margin-top: 47px;
 
 }.img-1{ 
    
-    background-image: url(./Group\ 2280.svg);
+    background-image: url(./assets/Group\ 2280.svg);
     background-repeat: no-repeat;
     padding: 150px;
 }
@@ -59,21 +59,21 @@ margin-top: 47px;
 
 }
 .img-blu1 {
-    background-image: url(./Rectangle\ 1339.svg);
+    background-image: url(./assets/Rectangle\ 1339.svg);
     background-repeat: no-repeat;
     width: 21px;
     height: 8px;
     margin-right: 9px;
 }
 .img-blu2 {
-    background-image: url(./Rectangle\ 1339\ \(1\).svg);
+    background-image: url(./assets/Rectangle\ 1339\ \(1\).svg);
     background-repeat: no-repeat;
     width: 21px;
     height: 8px;
     margin-right: 9px;
 }
 .img-blu3 {
-    background-image: url(./Rectangle\ 1340.svg);
+    background-image: url(./assets/Rectangle\ 1340.svg);
     background-repeat: no-repeat;
     width: 21px;
     height: 8px;
